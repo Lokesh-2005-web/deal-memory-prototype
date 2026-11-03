@@ -1,0 +1,11 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D08
+Title: Project Ember review (January 2022 acquisition)
+
+Project Ember was a large healthcare services group with about 1,200 staff that we acquired in January 2022.
+
+Merging the ERP systems took 7 months longer than planned because the two finance teams used different cost centres.
+
+The steering committee met monthly but could not resolve decision-rights disputes between the two finance teams, adding 2 months.
+
+Overall the integration saw minor delays in some workstreams.

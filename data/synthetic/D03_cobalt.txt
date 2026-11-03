@@ -1,0 +1,13 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D03
+Title: Project Cobalt post-mortem (September 2021 acquisition)
+
+Project Cobalt was the largest software acquisition we completed in 2021, a retail technology company with about 900 employees.
+
+Unifying login across the two products took 8 months, far beyond the 3 months planned, mostly because of incompatible identity providers.
+
+Retention payments were made up front, and a third of the acquired product team left within a year.
+
+Overlapping customers cancelled one of the two contracts, and revenue synergies came in well below the deal model.
+
+No one owned integration decisions for the first 3 months, which stalled the roadmap merge.

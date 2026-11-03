@@ -1,0 +1,11 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D02
+Title: Project Heron lessons learned (June 2022 acquisition)
+
+Project Heron was a small healthcare software company of about 40 people that we acquired in June 2022.
+
+Moving customer records into the parent company's platform took 4 months longer than planned because of inconsistent record formats.
+
+Staged equity vesting over 24 months kept all 6 core engineers through the first two years.
+
+The parent's security review of the acquired product added 2 months before it could be sold to existing customers.

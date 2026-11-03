@@ -1,0 +1,51 @@
+[
+  {"id": "Q1", "question": "In our software deals, what caused the biggest systems-integration delays?",
+   "filters": {"deal_type": "software", "workstream": "systems", "event_type": "delay"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": false, "n_deals": 6, "top_cause": "sso_identity", "top_cause_deals": 4}},
+
+  {"id": "Q2", "question": "Which retention approaches worked best for engineering talent in our software deals?",
+   "filters": {"deal_type": "software", "workstream": "people", "event_type": "success"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": false, "n_deals": 3, "top_cause": "retention_staged_vesting", "top_cause_deals": 3}},
+
+  {"id": "Q3", "question": "In our last three software acquisitions, what caused the biggest systems delays?",
+   "filters": {"deal_type": "software", "workstream": "systems", "event_type": "delay", "last_n_deals": 3},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": false, "n_deals": 3, "top_cause": "sso_identity", "top_cause_deals": 2}},
+
+  {"id": "Q4", "question": "What went wrong with people and retention in our software deals?",
+   "filters": {"deal_type": "software", "workstream": "people", "event_type": "attrition"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": false, "n_deals": 3, "top_cause": "retention_lump_sum", "top_cause_deals": 2}},
+
+  {"id": "Q5", "question": "What caused delays in our healthcare services deals?",
+   "filters": {"deal_type": "services", "industry": "healthcare", "event_type": "delay"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": true, "n_deals": 1}},
+
+  {"id": "Q6", "question": "What caused delays in our industrial hardware deals?",
+   "filters": {"deal_type": "hardware", "industry": "industrial", "event_type": "delay"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": true, "n_deals": 1}},
+
+  {"id": "Q7", "question": "What caused delays in our biotech deals?",
+   "filters": {"industry": "biotech", "event_type": "delay"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": true, "n_deals": 0}},
+
+  {"id": "Q8", "question": "Which compliance or security steps delayed our integrations?",
+   "filters": {"workstream": "legal_compliance", "event_type": "delay"},
+   "user_groups": ["corpdev"], "min_deals": 3,
+   "expect": {"abstain": false, "n_deals": 3, "top_cause": "security_review", "top_cause_deals": 3}},
+
+  {"id": "Q9", "question": "(Fund B access) In our software deals, what caused the biggest systems-integration delays?",
+   "filters": {"deal_type": "software", "workstream": "systems", "event_type": "delay"},
+   "user_groups": ["corpdev", "fund_b"], "min_deals": 3,
+   "expect": {"abstain": false, "n_deals": 7, "top_cause": "sso_identity", "top_cause_deals": 5}},
+
+  {"id": "Q10", "kind": "checklist", "question": "Draft an integration checklist for a new mid-size fintech software deal.",
+   "profile": {"deal_type": "software", "size_band": "mid", "industry": "fintech"},
+   "user_groups": ["corpdev"], "min_deals": 2,
+   "expect": {"items": [["plan_for", "sso_identity"], ["plan_for", "data_migration"], ["plan_for", "security_review"], ["plan_for", "retention_lump_sum"], ["keep_doing", "retention_staged_vesting"]]}}
+]

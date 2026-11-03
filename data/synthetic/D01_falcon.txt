@@ -1,0 +1,11 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D01
+Title: Project Falcon post-integration review (March 2023 acquisition)
+
+Project Falcon was our acquisition of a 200-person payments software company, closed in March 2023. This review covers the first twelve months after closing.
+
+Single sign-on for the acquired product slipped by 5 months because the two identity systems could not be mapped to each other.
+
+We paid retention bonuses as one lump sum at closing, and 3 of the 12 senior engineers resigned within 6 months.
+
+Weekly all-hands updates in the first 100 days kept customer churn to 2 accounts.

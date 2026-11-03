@@ -1,0 +1,12 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+HELD-OUT: written after the keyword rules were fixed, in deliberately different wording.
+Deal ID: H01
+Title: Project Wren close-out notes (June 2024 acquisition)
+
+Project Wren was a mid-sized lending software company that we acquired in June 2024.
+
+Customers could not log in to both products with one account until month nine, roughly five months later than the plan.
+
+Engineers who were paid their full retention award on day one were mostly gone by the first anniversary.
+
+Porting the loan book onto our servicing platform overran by three months because field definitions differed.

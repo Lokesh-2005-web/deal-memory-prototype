@@ -1,0 +1,28 @@
+lesson_id,deal_id,doc,para,workstream,event_type,cause_tag,impact_months,quote,evidence_type,status,reject_reason,extractor,review_by
+L001,D01,D01_falcon.txt,2,systems,delay,sso_identity,5.0,Single sign-on for the acquired product slipped by 5 months because the two identity systems could not be mapped to each other.,measured,published,,baseline,2026-03
+L002,D01,D01_falcon.txt,3,people,attrition,retention_lump_sum,,"We paid retention bonuses as one lump sum at closing, and 3 of the 12 senior engineers resigned within 6 months.",self_reported,published,,baseline,2026-03
+L003,D01,D01_falcon.txt,4,customers,success,customer_churn,,Weekly all-hands updates in the first 100 days kept customer churn to 2 accounts.,self_reported,published,,baseline,2026-03
+L004,D02,D02_heron.txt,2,systems,delay,data_migration,4.0,Moving customer records into the parent company's platform took 4 months longer than planned because of inconsistent record formats.,measured,published,,baseline,2025-06
+L005,D02,D02_heron.txt,3,people,success,retention_staged_vesting,,Staged equity vesting over 24 months kept all 6 core engineers through the first two years.,self_reported,published,,baseline,2025-06
+L006,D02,D02_heron.txt,4,legal_compliance,delay,security_review,2.0,The parent's security review of the acquired product added 2 months before it could be sold to existing customers.,measured,published,,baseline,2025-06
+L007,D03,D03_cobalt.txt,2,systems,delay,sso_identity,8.0,"Unifying login across the two products took 8 months, far beyond the 3 months planned, mostly because of incompatible identity providers.",measured,published,,baseline,2024-09
+L008,D03,D03_cobalt.txt,3,people,attrition,retention_lump_sum,,"Retention payments were made up front, and a third of the acquired product team left within a year.",self_reported,published,,baseline,2024-09
+L009,D03,D03_cobalt.txt,4,customers,miss,customer_churn,,"Overlapping customers cancelled one of the two contracts, and revenue synergies came in well below the deal model.",self_reported,published,,baseline,2024-09
+L010,D03,D03_cobalt.txt,5,governance,delay,governance,3.0,"No one owned integration decisions for the first 3 months, which stalled the roadmap merge.",measured,published,,baseline,2024-09
+L011,D04,D04_maple.txt,2,finance_ops,delay,erp_finance_systems,6.0,Consolidating the general ledgers took 6 months longer than planned because the charts of accounts did not match.,measured,published,,baseline,2023-11
+L012,D04,D04_maple.txt,3,people,attrition,talent_attrition,,Regular town halls kept staff attrition low.,self_reported,published,,baseline,2023-11
+L013,D04,D04_maple.txt,4,finance_ops,delay,vendor_contracts,9.0,Two overlapping vendor licence contracts could not be terminated for 9 months and doubled costs.,measured,published,,baseline,2023-11
+L014,D05,D05_quartz.txt,2,systems,delay,sso_identity,3.0,Single sign-on slipped by 3 months; we had learned from Falcon but still underestimated the identity mapping work.,measured,published,,baseline,2027-02
+L015,D05,D05_quartz.txt,3,people,success,retention_staged_vesting,,"We used retention grants that vest over 3 years, and every key engineer stayed through the first year.",self_reported,published,,baseline,2027-02
+L016,D05,D05_quartz.txt,4,legal_compliance,delay,security_review,4.0,SOC 2 evidence collection for the combined product delayed the first joint release by 4 months.,measured,published,,baseline,2027-02
+L017,D06,D06_birch.txt,2,finance_ops,delay,vendor_contracts,5.0,"Supplier contracts of the acquired plant needed renegotiation, which took 5 months.",measured,published,,baseline,2022-05
+L018,D06,D06_birch.txt,3,people,attrition,talent_attrition,,The plant manager and two line supervisors left within 4 months.,self_reported,published,,baseline,2022-05
+L019,D07,D07_onyx.txt,2,systems,delay,sso_identity,6.0,Single sign-on took 6 months longer than planned because the two products used different identity providers.,measured,published,,baseline,2026-10
+L020,D08,D08_ember.txt,2,finance_ops,delay,erp_finance_systems,7.0,Merging the ERP systems took 7 months longer than planned because the two finance teams used different cost centres.,measured,published,,baseline,2025-01
+L021,D08,D08_ember.txt,3,governance,delay,governance,2.0,"The steering committee met monthly but could not resolve decision-rights disputes between the two finance teams, adding 2 months.",measured,published,,baseline,2025-01
+L022,D09,D09_tern.txt,2,systems,delay,sso_identity,4.0,Getting single sign-on working across both products took 4 months longer than planned.,measured,published,,baseline,2024-04
+L023,D09,D09_tern.txt,3,legal_compliance,delay,security_review,3.0,The security review of the acquired product delayed its launch to existing customers by 3 months.,measured,published,,baseline,2024-04
+L024,D09,D09_tern.txt,4,systems,success,data_migration,,The customer data migration was done in a single weekend cutover and caused no customer downtime.,self_reported,published,,baseline,2024-04
+L025,D10,D10_slate.txt,2,systems,delay,data_migration,5.0,Data migration for the acquired customers took 5 months longer than planned because the legacy platform exported records in a proprietary format.,measured,published,,baseline,2023-02
+L026,D10,D10_slate.txt,3,people,success,retention_staged_vesting,,Retention grants that vest in annual tranches over 4 years kept most of the senior engineering team through the integration.,self_reported,published,,baseline,2023-02
+L027,D10,D10_slate.txt,4,people,attrition,talent_attrition,,Sales leaders left after the reorganisation was announced.,self_reported,published,,baseline,2023-02

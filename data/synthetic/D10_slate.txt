@@ -1,0 +1,11 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D10
+Title: Project Slate review (February 2020 acquisition)
+
+Project Slate was our largest fintech software acquisition, about 1,500 employees, closed in February 2020.
+
+Data migration for the acquired customers took 5 months longer than planned because the legacy platform exported records in a proprietary format.
+
+Retention grants that vest in annual tranches over 4 years kept most of the senior engineering team through the integration.
+
+Sales leaders left after the reorganisation was announced.

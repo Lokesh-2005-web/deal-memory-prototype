@@ -1,0 +1,39 @@
+[
+  {"deal_id": "D01", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "sso_identity", "impact_months": 5, "quote": "Single sign-on for the acquired product slipped by 5 months because the two identity systems could not be mapped to each other."},
+  {"deal_id": "D01", "para": 3, "workstream": "people", "event_type": "attrition", "cause_tag": "retention_lump_sum", "impact_months": null, "quote": "We paid retention bonuses as one lump sum at closing, and 3 of the 12 senior engineers resigned within 6 months."},
+  {"deal_id": "D01", "para": 4, "workstream": "customers", "event_type": "success", "cause_tag": "communication", "impact_months": null, "quote": "Weekly all-hands updates in the first 100 days kept customer churn to 2 accounts."},
+
+  {"deal_id": "D02", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "data_migration", "impact_months": 4, "quote": "Moving customer records into the parent company's platform took 4 months longer than planned because of inconsistent record formats."},
+  {"deal_id": "D02", "para": 3, "workstream": "people", "event_type": "success", "cause_tag": "retention_staged_vesting", "impact_months": null, "quote": "Staged equity vesting over 24 months kept all 6 core engineers through the first two years."},
+  {"deal_id": "D02", "para": 4, "workstream": "legal_compliance", "event_type": "delay", "cause_tag": "security_review", "impact_months": 2, "quote": "The parent's security review of the acquired product added 2 months before it could be sold to existing customers."},
+
+  {"deal_id": "D03", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "sso_identity", "impact_months": 8, "quote": "Unifying login across the two products took 8 months, far beyond the 3 months planned, mostly because of incompatible identity providers."},
+  {"deal_id": "D03", "para": 3, "workstream": "people", "event_type": "attrition", "cause_tag": "retention_lump_sum", "impact_months": null, "quote": "Retention payments were made up front, and a third of the acquired product team left within a year."},
+  {"deal_id": "D03", "para": 4, "workstream": "customers", "event_type": "miss", "cause_tag": "customer_churn", "impact_months": null, "quote": "Overlapping customers cancelled one of the two contracts, and revenue synergies came in well below the deal model."},
+  {"deal_id": "D03", "para": 5, "workstream": "governance", "event_type": "delay", "cause_tag": "governance", "impact_months": 3, "quote": "No one owned integration decisions for the first 3 months, which stalled the roadmap merge."},
+
+  {"deal_id": "D04", "para": 2, "workstream": "finance_ops", "event_type": "delay", "cause_tag": "erp_finance_systems", "impact_months": 6, "quote": "Consolidating the general ledgers took 6 months longer than planned because the charts of accounts did not match."},
+  {"deal_id": "D04", "para": 3, "workstream": "people", "event_type": "success", "cause_tag": "communication", "impact_months": null, "quote": "Regular town halls kept staff attrition low."},
+  {"deal_id": "D04", "para": 4, "workstream": "finance_ops", "event_type": "delay", "cause_tag": "vendor_contracts", "impact_months": 9, "quote": "Two overlapping vendor licence contracts could not be terminated for 9 months and doubled costs."},
+
+  {"deal_id": "D05", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "sso_identity", "impact_months": 3, "quote": "Single sign-on slipped by 3 months; we had learned from Falcon but still underestimated the identity mapping work."},
+  {"deal_id": "D05", "para": 3, "workstream": "people", "event_type": "success", "cause_tag": "retention_staged_vesting", "impact_months": null, "quote": "We used retention grants that vest over 3 years, and every key engineer stayed through the first year."},
+  {"deal_id": "D05", "para": 4, "workstream": "legal_compliance", "event_type": "delay", "cause_tag": "security_review", "impact_months": 4, "quote": "SOC 2 evidence collection for the combined product delayed the first joint release by 4 months."},
+
+  {"deal_id": "D06", "para": 2, "workstream": "finance_ops", "event_type": "delay", "cause_tag": "vendor_contracts", "impact_months": 5, "quote": "Supplier contracts of the acquired plant needed renegotiation, which took 5 months."},
+  {"deal_id": "D06", "para": 3, "workstream": "people", "event_type": "attrition", "cause_tag": "talent_attrition", "impact_months": null, "quote": "The plant manager and two line supervisors left within 4 months."},
+
+  {"deal_id": "D07", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "sso_identity", "impact_months": 6, "quote": "Single sign-on took 6 months longer than planned because the two products used different identity providers."},
+  {"deal_id": "D07", "para": 3, "workstream": "systems", "event_type": "delay", "cause_tag": "data_migration", "impact_months": 2, "quote": "Customer data had to be moved into the parent platform in stages, which added 2 months."},
+
+  {"deal_id": "D08", "para": 2, "workstream": "finance_ops", "event_type": "delay", "cause_tag": "erp_finance_systems", "impact_months": 7, "quote": "Merging the ERP systems took 7 months longer than planned because the two finance teams used different cost centres."},
+  {"deal_id": "D08", "para": 3, "workstream": "governance", "event_type": "delay", "cause_tag": "governance", "impact_months": 2, "quote": "The steering committee met monthly but could not resolve decision-rights disputes between the two finance teams, adding 2 months."},
+
+  {"deal_id": "D09", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "sso_identity", "impact_months": 4, "quote": "Getting single sign-on working across both products took 4 months longer than planned."},
+  {"deal_id": "D09", "para": 3, "workstream": "legal_compliance", "event_type": "delay", "cause_tag": "security_review", "impact_months": 3, "quote": "The security review of the acquired product delayed its launch to existing customers by 3 months."},
+  {"deal_id": "D09", "para": 4, "workstream": "systems", "event_type": "success", "cause_tag": "data_migration", "impact_months": null, "quote": "The customer data migration was done in a single weekend cutover and caused no customer downtime."},
+
+  {"deal_id": "D10", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "data_migration", "impact_months": 5, "quote": "Data migration for the acquired customers took 5 months longer than planned because the legacy platform exported records in a proprietary format."},
+  {"deal_id": "D10", "para": 3, "workstream": "people", "event_type": "success", "cause_tag": "retention_staged_vesting", "impact_months": null, "quote": "Retention grants that vest in annual tranches over 4 years kept most of the senior engineering team through the integration."},
+  {"deal_id": "D10", "para": 4, "workstream": "people", "event_type": "attrition", "cause_tag": "talent_attrition", "impact_months": null, "quote": "Sales leaders left after the reorganisation was announced."}
+]

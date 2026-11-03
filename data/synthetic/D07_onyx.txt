@@ -1,0 +1,9 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D07
+Title: Project Onyx review (October 2023 acquisition, Fund B only)
+
+Project Onyx was a small education software company that Fund B acquired in October 2023.
+
+Single sign-on took 6 months longer than planned because the two products used different identity providers.
+
+Customer data had to be moved into the parent platform in stages, which added 2 months.

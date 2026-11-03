@@ -1,0 +1,9 @@
+[
+  {"deal_id": "H01", "para": 2, "workstream": "systems", "event_type": "delay", "cause_tag": "sso_identity", "impact_months": 5, "quote": "Customers could not log in to both products with one account until month nine, roughly five months later than the plan."},
+  {"deal_id": "H01", "para": 3, "workstream": "people", "event_type": "attrition", "cause_tag": "retention_lump_sum", "impact_months": null, "quote": "Engineers who were paid their full retention award on day one were mostly gone by the first anniversary."},
+  {"deal_id": "H01", "para": 4, "workstream": "systems", "event_type": "delay", "cause_tag": "data_migration", "impact_months": 3, "quote": "Porting the loan book onto our servicing platform overran by three months because field definitions differed."},
+  {"deal_id": "H02", "para": 2, "workstream": "legal_compliance", "event_type": "delay", "cause_tag": "security_review", "impact_months": 4, "quote": "The acquired product could not be sold to hospital customers until it passed our HIPAA controls audit, which took four extra months."},
+  {"deal_id": "H02", "para": 3, "workstream": "people", "event_type": "attrition", "cause_tag": "talent_attrition", "impact_months": null, "quote": "Founders who left in the first quarter took key customer relationships with them."},
+  {"deal_id": "H03", "para": 2, "workstream": "governance", "event_type": "delay", "cause_tag": "governance", "impact_months": null, "quote": "Nobody could say who had the final call on the warehouse system choice, so the decision dragged on for a quarter."},
+  {"deal_id": "H03", "para": 3, "workstream": "people", "event_type": "success", "cause_tag": "retention_staged_vesting", "impact_months": null, "quote": "Annual vesting of retention shares kept the dispatch managers in place."}
+]

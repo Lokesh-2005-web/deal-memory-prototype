@@ -1,0 +1,10 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+HELD-OUT: written after the keyword rules were fixed, in deliberately different wording.
+Deal ID: H02
+Title: Project Lark integration retrospective (September 2024 acquisition)
+
+Project Lark was a small clinical scheduling software company that we acquired in September 2024.
+
+The acquired product could not be sold to hospital customers until it passed our HIPAA controls audit, which took four extra months.
+
+Founders who left in the first quarter took key customer relationships with them.

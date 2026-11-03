@@ -1,0 +1,11 @@
+deal_id,name,date,deal_type,size_band,industry,acl
+D01,Project Falcon,2023-03,software,mid,fintech,corpdev
+D02,Project Heron,2022-06,software,small,healthcare,corpdev
+D03,Project Cobalt,2021-09,software,large,retail,corpdev
+D04,Project Maple,2020-11,services,mid,logistics,corpdev
+D05,Project Quartz,2024-02,software,mid,fintech,corpdev
+D06,Project Birch,2019-05,hardware,small,industrial,corpdev
+D07,Project Onyx,2023-10,software,small,education,fund_b
+D08,Project Ember,2022-01,services,large,healthcare,corpdev
+D09,Project Tern,2021-04,software,mid,logistics,corpdev
+D10,Project Slate,2020-02,software,large,fintech,corpdev

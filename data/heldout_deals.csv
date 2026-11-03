@@ -1,0 +1,4 @@
+deal_id,name,date,deal_type,size_band,industry,acl
+H01,Project Wren,2024-06,software,mid,fintech,corpdev
+H02,Project Lark,2024-09,software,small,healthcare,corpdev
+H03,Project Dune,2025-01,services,mid,logistics,corpdev

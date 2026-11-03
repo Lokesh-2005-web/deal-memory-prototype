@@ -1,0 +1,11 @@
+SYNTHETIC DOCUMENT. Made up for the Tresata take-home. Not a real deal or company.
+Deal ID: D05
+Title: Project Quartz review (February 2024 acquisition)
+
+Project Quartz was a mid-sized fintech software company with 150 employees that we acquired in February 2024.
+
+Single sign-on slipped by 3 months; we had learned from Falcon but still underestimated the identity mapping work.
+
+We used retention grants that vest over 3 years, and every key engineer stayed through the first year.
+
+SOC 2 evidence collection for the combined product delayed the first joint release by 4 months.
